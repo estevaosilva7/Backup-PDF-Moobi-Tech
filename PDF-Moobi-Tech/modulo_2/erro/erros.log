@@ -1,0 +1,2 @@
+Ocorreu um erro [2]: Undefined variable $variavelNaoDeclarada em /home/moobi/Área de Trabalho/erros_php/teste.php na linha 16
+Ocorreu um erro [2]: Undefined variable $variavelTeste em /home/moobi/Área de Trabalho/erros_php/direcionar_erro.php na linha 12
