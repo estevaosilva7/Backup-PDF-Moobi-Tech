@@ -1,0 +1,23 @@
+/sindicato
+│
+├── /app
+│   ├── /Controllers
+│   │   └── UsuarioController.php
+│   │
+│   ├── /Models
+│   │   └── UsuarioModel.php
+│   │
+│   ├── /Views
+│   │   ├── CadastroUsuarioView.php
+│   │   ├── DashboardAdminView.php
+│   │   ├── ListarUsuarioView.php
+│   │   └── LoginView.php
+│   │
+│   └── /Database
+│       └── MoobiDatabaseHandler.php
+│
+├── /public
+│   └── index.php
+│
+
+
