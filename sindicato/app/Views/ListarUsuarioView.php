@@ -6,9 +6,9 @@
 </head>
 <body>
 <h1>Lista de Usuários</h1>
-<?php if (!empty($usuarios)): ?>
+<?php if (!empty($nUsuario)): ?>
     <ul>
-        <?php foreach ($usuarios as $usuario): ?>
+        <?php foreach ($nUsuario as $usuario): ?>
             <li><?php echo "{$usuario['usu_Nome']} - Tipo: {$usuario['usu_Tipo']}"; ?></li>
         <?php endforeach; ?>
 
@@ -16,5 +16,8 @@
 <?php else: ?>
     <p>Nenhum usuário encontrado.</p>
 <?php endif; ?>
+<a href="/app/Views/DashboardAdminView.php">
+    <button type="button">Voltar</button>
+</a>
 </body>
 </html>

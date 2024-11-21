@@ -10,7 +10,7 @@
 <body>
 
 <header>
-    <h1>Bem-vindo ao Painel de Controle</h1>
+    <h1>Bem-vindo ao Painel de Administrador</h1>
 </header>
 
 <nav>

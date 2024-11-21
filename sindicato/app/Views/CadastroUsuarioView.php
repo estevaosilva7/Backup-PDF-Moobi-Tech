@@ -15,5 +15,8 @@
     </select>
     <button type="submit">Cadastrar</button>
 </form>
+<a href="/app/Views/DashboardAdminView.php">
+    <button type="button">Voltar</button>
+</a>
 </body>
 </html>
